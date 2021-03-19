@@ -18,12 +18,13 @@ If you wish to run the app on your localhost, kindly follow the below steps :
 1. Clone the repository
 2. Make a .env file in the root directory and add the following code
 
-DATABASE='mongodb+srv://nischal:1234abcd@cluster0.3fljs.mongodb.net/<dbname>?retryWrites=true&w=majority'
-PORT=8000
-CLOUDINARY_CLOUD_NAME=idean
-CLOUDINARY_API_KEY=173844877382259
-CLOUDINARY_API_SECRET=8QfvfLtcOjc_1puS-JWw9NZpri4
-STRIPE_SECRET=sk_test_51ISNEvECvaWr7wKLjk14QazqPZZiZZwLQPaawHmMMz4NAlhTgXfUosfncXpeP3xB5QkzQAzUcEvbX8BIVOERBYW700RtJK1Hcu
+
+DATABASE='mongodb+srv://nischal:1234abcd@cluster0.3fljs.mongodb.net/<dbname>?retryWrites=true&w=majority'                                   
+PORT=8000                                                                                                                               
+CLOUDINARY_CLOUD_NAME=idean                                                                                                     
+CLOUDINARY_API_KEY=173844877382259                                                                                                  
+CLOUDINARY_API_SECRET=8QfvfLtcOjc_1puS-JWw9NZpri4                                                                             
+STRIPE_SECRET=sk_test_51ISNEvECvaWr7wKLjk14QazqPZZiZZwLQPaawHmMMz4NAlhTgXfUosfncXpeP3xB5QkzQAzUcEvbX8BIVOERBYW700RtJK1Hcu                
 
 3. Migrate to the root folder and run -> npm start in console.
 
