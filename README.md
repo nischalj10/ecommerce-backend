@@ -4,7 +4,7 @@ https://github.com/Nischalj10/ecommerce-frontend
 
 This project has already been deployed on Heroku. To view the finished application, kindly visit the following link-
 https://nischal-ecommerce-frontend.herokuapp.com/ 
-(It take a minute to load though <3 )
+(It takes a minute to load though <3 )
 
 Since it would not be right to share the admin profile of the application publicly, I have made this demonstration 
 video about the platform, kindly see it here once you have explored the application -
